@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-TjMLqf7Fwv)
+- Live Site URL: [Add live site URL here](https://michelle-abes.github.io/Product-preview-card-component/)
 
 ### Built with
 
@@ -33,4 +33,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Miche_Abes](https://www.frontendmentor.io/profile/Miche_Abes)
+- Frontend Mentor - [@Miche_Abes](https://www.frontendmentor.io/profile/Michelle_Abes)
